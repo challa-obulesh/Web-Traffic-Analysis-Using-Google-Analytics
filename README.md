@@ -58,7 +58,7 @@ Since your website is hosted on GitHub Pages, follow these steps:
    
      gtag('config', 'G-XXXXXXXXXX'); // Replace with your Measurement ID
    </script
-Step 3: Verify GA4 is Working
+>Step 3: Verify GA4 is Working
 Open GA4 Dashboard:
 Log in to Google Analytics.
 Navigate to Realtime Report:
@@ -66,7 +66,12 @@ Click Reports → Realtime.
 Test Your Site:
 Open your website in a new tab.
 Confirm that real-time user data appears in GA4.
-Step 4: Analyze Your Website Traffic
+
+----
+
+
+
+>Step 4: Analyze Your Website Traffic
 After waiting 24-48 hours for GA4 to collect data, you can explore various reports:
 
 Acquisition Analysis
@@ -79,7 +84,11 @@ Action: Check the Engagement → Pages and Screens report.
 Demographics Analysis
 Goal: Learn about your audience's age, gender, and location.
 Action: Explore the Demographics → Overview report.
-🚀 Installation & Usage Summary
+
+----
+
+  
+>🚀 Installation & Usage Summary
 Set Up GA4:
 Create an account, property, and data stream.
 Install Tracking Code:
@@ -88,10 +97,15 @@ Verify Setup:
 Check the Realtime report in GA4.
 Analyze Data:
 After data collection, review acquisition, engagement, and demographics reports.
-📢 Project Results & Impact
+
+  ----
+
+
+>📢 Project Results & Impact
 By integrating GA4 with your personal website, you can:
 
 Improve Marketing Strategies: Identify and leverage key traffic sources.
 Enhance User Engagement: Optimize content based on user behavior data.
 Boost Website Performance: Use data-driven insights to reduce bounce rates.
 Inform Business Decisions: Rely on comprehensive analytics to guide improvements.
+---
