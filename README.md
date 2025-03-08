@@ -17,26 +17,23 @@ This project focuses on analyzing website traffic, user behavior, and engagement
 - **Input:** Enter an Account Name (e.g., *"My Portfolio Website"*)  
 - **Proceed:** Click **Next**
 
-> *Screenshot Reference: See uploaded images showing the "Start Measuring" button and account creation steps.*
+> 
 
 ### 2️⃣ Create a GA4 Property  
 - **Input:** Enter a Property Name (e.g., *"Obulesh Portfolio Analytics"*)  
 - **Configuration:**  
   - Set Time Zone (e.g., India: UTC+5:30)  
   - Choose Industry → Technology (optional)  
-- **Action:** Click **Next** then **Create**
-
-> *Screenshot Reference: Uploaded images highlight the property creation screens.*
-
+- **Action:** 
 ### 3️⃣ Set Up a Web Data Stream  
-- **Select:** Web (for a website)  
-- **Input:**  
-  - Website URL: [https://challa-obulesh.github.io/personalwebsite.github.io/](https://challa-obulesh.github.io/personalwebsite.github.io/)  
+- **Select:** Web (for a website) 
+- **Input:** 
+  - Website URL: [https://challa-obulesh.githubio/personalwebsite.github.io/](https://challa-obulesh.github.io/personalwebsite.github.io/)  
   - Stream Name: e.g., *"Portfolio Website"*  
 - **Action:** Click **Create Stream**  
 - **Note:** Copy the **Measurement ID** (e.g., `G-XXXXXXXXXX`) for later use.
 
-> *Screenshot Reference: See images that detail the data stream setup and Measurement ID.*
+
 
 ---
 
